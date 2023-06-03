@@ -1,6 +1,6 @@
-# elderguardian_mobile_application
+# ElderGuardian Mobile Application
 
-A new Flutter project.
+A mobile application for ElderGuardian, built using the Flutter/Dart stack.
 
 ## Getting Started
 
