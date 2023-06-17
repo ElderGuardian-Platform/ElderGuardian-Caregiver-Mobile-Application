@@ -13,7 +13,7 @@ class _LogoPageState extends State<LogoPage> {
   @override
   void initState() {
     super.initState();
-    Future.delayed(Duration(seconds: 3)).then((value) {
+    Future.delayed(Duration(seconds: 5)).then((value) {
       Navigator.push(
           context, MaterialPageRoute(builder: (context) => const LoginPage()));
     });
